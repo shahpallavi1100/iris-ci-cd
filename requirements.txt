@@ -3,3 +3,8 @@ scikit-learn
 numpy
 joblib
 pytest
+flask
+gunicorn
+scikit-learn
+joblib
+numpy
